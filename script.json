@@ -7,3 +7,6 @@
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, bot is back."
 }
+
+
+"target": "http://example.com/callback", "triggers": ["message:appUser"]
