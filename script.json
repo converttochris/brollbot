@@ -3,6 +3,7 @@
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "chat_with_my_bot": "Hey there! \nI'm Chris' personal bot \nWant me to ping him so he can reach as soon as he can or would you like to learn more?\n%[Ping him](postback:ping_him)\n%[Learn more](postback:learn_more)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, bot is back."
 }
