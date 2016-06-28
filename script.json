@@ -1,5 +1,5 @@
 {
-    "BOT": "![chris](https://raw.githubusercontent.com/converttochris/brollbot/master/img/chris_intro.png)\nChris Broll\nI’m the personal bot for Chris, an Art Director from Minneapolis, Minnesota.\nWant to know more about bots or learn about Chris? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Chris](postback:learn_about_chris) %[One random fact!](postback:random_fact)",
+    "BOT": "![chris](https://raw.githubusercontent.com/converttochris/brollbot/master/img/chris_intro.png)\nChris Broll\nArt Director @ Weber Shandwick, friend of kickstarters, and creator of ConvertToChris.\nI'm unavailable at the moment, but feel free to chat with my bot! %[I'm here for the bot](postback:here_for_the_bot)
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
