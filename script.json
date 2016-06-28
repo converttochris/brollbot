@@ -8,7 +8,7 @@
     "ABOUT ME": "Cool, what about Chris do you want to know?\n%[Work](postback:work)\n%[Education](postback:education)\n%[Life](postback:life)",
     "CONNECT WITH ME": "",
     "STUFF I LIKE": "",
-    "WORK": "Even though I ________, I've spent the past 5 years working on ________ and __________. Pretty cool?\n%[More Work History](postback:more_work_history)",
+    "WORK": "Even though I ________, I've spent the past 5 years working on ________ and __________. \nPretty cool, right?\n%[More Work History](postback:more_work_history)",
     "EDUCATION": "",
     "LIFE": "",
     "MORE WORK HISTORY": "",
