@@ -5,9 +5,12 @@
     "LEARN MORE": "",
     "HOME MENU": "Here's a full list of options. You can always type HOME to get back here. \nGot it? Here's home:\n%[About Me](postback:about_me)\n%[Connect with me](postback:connect_with_me)\n%[Stuff I like](postback:stuff_i_like)",
     "HOME": "Welcome home:\n%[About Me](postback:about_me)\n%[Connect with me](postback:connect_with_me)\n%[Stuff I like](postback:stuff_i_like)",
-    "ABOUT ME": "",
+    "ABOUT ME": "Cool, what about Chris do you want to know?\n%[Work](postback:work)\n%[Education](postback:education)\n%[Life](postback:life)",
     "CONNECT WITH ME": "",
     "STUFF I LIKE": "",
+    "WORK": "",
+    "EDUCATION": "",
+    "LIFE": "",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, bot is back."
 }
