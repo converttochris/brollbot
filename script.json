@@ -6,7 +6,7 @@
     "CHAT WITH MY BOT": "Hey there! \nI'm Chris' personal bot \nWant me to ping him so he can reach as soon as he can or would you like to learn more?\n%[Ping him](postback:ping_him)\n%[Learn more](postback:learn_more)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, bot is back.",
-    "TEST": "hi%[hi]", "triggers": ["message:appUser"]
+    "TEST": "hi. %[hi](postback:twitter)", "triggers": ["message:appUser"]
     
 }
 
