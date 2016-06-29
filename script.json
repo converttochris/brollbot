@@ -1,20 +1,11 @@
 {
-    "BOT": " %[Chat with my bot!]",
-    "CHAT WITH MY BOT!": "Hey there! \nI'm Chris' personal bot \nWant to jump in and connect with him or would you like to learn more about Chris first? \n %[Ping him](postback:ping_him) \n %[Learn more](postback:learn_more) \n %[Home menu](postback:home_menu)",
-    "PING HIM": "Okay! %[Learn more](postback:learn_more)",
-    "LEARN MORE": "",
-    "HOME MENU": "Here's a full list of options. You can always type HOME to get back here. \nGot it? Here's home:\n%[About Me](postback:about_me)\n%[Connect with me](postback:connect_with_me)\n%[Stuff I like](postback:stuff_i_like)",
-    "HOME": "Welcome home:\n%[About Me](postback:about_me)\n%[Connect with me](postback:connect_with_me)\n%[Stuff I like](postback:stuff_i_like)",
-    "ABOUT ME": "Cool, what about Chris do you want to know?\n%[Work](postback:work)\n%[Education](postback:education)\n%[Life](postback:life)",
-    "CONNECT WITH ME": "",
-    "STUFF I LIKE": "",
-    "WORK": "Even though I ________, I've spent the past 5 years working on ________ and __________. \nPretty cool, right?\n%[More Work History](postback:more_work_history)",
-    "EDUCATION": "",
-    "LIFE": "",
-    "MORE WORK HISTORY": "I'm an Art Director at Weber Shandwick Minneapolis \nBefore that I worked at Mithun for 2.5 years with the entire creative on campaign and marketing assets.\nI've also been a professional retoucher for commercial products and international men's fashion.\n Riveting, I know...\n%[More Work Info](postback:more_work_info)",
-    "MORE WORK INFO": "",
+    {
+    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
+    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, bot is back."
+    "DISCONNECT": "Roger that, EstherBot is back."
 }
 
 
