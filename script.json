@@ -14,8 +14,8 @@
     "BVI": "Smooth sailing!\nChris and a crew sailed up, down, and around many of the islands that make up the British Virgin Islands.\nHe ran the lines, set the sails, and even captain'd the boat.\nEvery night was spent on a new island getting to know the locals. %[Iceland](postback:iceland) %[Finland](postback:finland) %[Home Menu](postback:home_menu)",
     "FINLAND": "Kiitos Helsinki!\nIn a 15 day trip traveling across 3 countries, Chris stopped and fell in love with Helsinki.\nThe architecture was truly one-of-a-kind.\nAnd the history of the city remarkable. %[Iceland](postback:iceland) %[BVI](postback:bvi) %[Home Menu](postback:home_menu)",
     "I'M HERE FOR THE BOT": "Whoa, whoa, whoa, please don't steal me, okay?\nKidding, you can copy me and make your own.\nI'm BrollBot, Chris' personal bot. I was built using Smooch.io, Heroku, and Github with the help from my cousin, EstherBot and inspiration from MessinaBot. %[I want a bot](postback:i_want_a_bot) %[Home Menu](postback:home_menu)",
-    "WAIT, WHAT ARE YOU": "",
-    "WHAT IS THIS?": "",
+    "WAIT, WHAT ARE YOU": "I'm BrollBot, Chris' personal bot. I was built using Smooch.io, Heroku, and Github with the help from my cousin, EstherBot and inspiration from MessinaBot. %[I want a bot](postback:i_want_a_bot) %[Home Menu](postback:home_menu)",
+    "WHAT IS THIS?": "I'm BrollBot, Chris' personal bot. I was built using Smooch.io, Heroku, and Github with the help from my cousin, EstherBot and inspiration from MessinaBot. %[I want a bot](postback:i_want_a_bot) %[Home Menu](postback:home_menu)",
     "I WANT A BOT": "This link has everything you need to know: %[Build-a-bot](http://estherbot.us3.list-manage.com/subscribe?u=747676a510e61e338b488bc17&id=b41a573523) \nIf you've changed your mind you can always type HOME MENU at anytime to see your options. %[Home Menu](postback:home_menu)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, BrollBot is back."
