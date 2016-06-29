@@ -7,7 +7,6 @@
     "WORK & EDUCATION": "Hmmm, okay, pulling that up.\nOkay, Chris has spent the last 10 years learning and working in the creative industry. His roles have changes as have his employers, but creativity is always central to his work %[tell me more](postback:tell_me_more)",
     "TELL ME MORE": "He is an Art Director @ Weber Shandwick Minneapolis\nBefore that he worked at Mithun Agency with the entire creative team providing ideas and helping create visuals for campaign work.\nHe also worked as a retoucher for commercial products and celebrities right out of college. %[That's interesting](postback:thats_interesting)",
     "THAT'S INTERESTING": "He recieved his BFA in Photography at The Art Institute before switching gears to advertising.\nHe likes to focus on bringing new, modern solutions to every business opportunity and use current trends to their advantage.\nI think that's prettu much it. %[So Now you Know](postback:so_now_you_know)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, BrollBot is back."
 }
