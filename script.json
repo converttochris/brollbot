@@ -9,7 +9,8 @@
     "THAT'S INTERESTING": "He recieved his BFA in Photography at The Art Institute before switching gears to advertising.\nHe likes to focus on bringing new, modern solutions to every business opportunity and uses current trends to their advantage. Which is sort of why I exist right now. Thank god.\nAnyway, I think that pretty much covers it. %[So now you know](postback:so_now_you_know)",
     "SO NOW YOU KNOW": "Keep going down the rabbit hole?\nHere are the other two topics I know a lot about. %[World Travel](postback:world_travel) %[Random Facts](postback:random_facts)",
     "WORLD TRAVEL": "One of Chris' favorite things in the world is international travel.\nHe has visted every Nordic country in the world prior to stepping foot in the state directly south of him, Iowa.\nHe's been to 11 countries over the past 2 years and has plenty more on the radar. Here are a few of his favorites: %[Iceland](postback:Iceland) %[BVI](postback:bvi) %[Finland](postback:Finland)",
-    "ICELAND": "The land of fire and ice.\nChris spent a week driving across half of the country.\nHe stayed in Reykjavik.\nSaw incredible mountains.\nAnd even rode horses across volcanic fields. %[BVI](postback:bvi) %[Finland](postback:finland)",
+    "ICELAND": "The land of fire and ice.\nChris spent a week driving across half of the country.\nHe stayed in Reykjavik.\nSaw incredible mountains.\nAnd even rode horses across volcanic fields. %[BVI](postback:bvi) %[Finland](postback:finland) %[Home Menu](postback:home_menu)",
+    "BVI": "Smooth sailing!\nChris and a crew sailed up, down, and around many of the islands that make up the British Virgin Islands.\nHe ran the lines, set the sails, and even captain'd the boat.\nEvery night was spent on a new island getting to know the locals. %[Iceland](postback:iceland) %[Finland](postback:finland) %[Home Menu](postback:home_menu)"
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, BrollBot is back."
 }
