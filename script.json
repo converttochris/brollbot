@@ -1,5 +1,5 @@
 {
-    "BOT": "![chris](https://raw.githubusercontent.com/converttochris/brollbot/master/img/chris_intro.png)\nChris Broll\n%[Chat with my bot!](postback:chat_with_my_bot)",
+    "BOT": "![chris](https://raw.githubusercontent.com/converttochris/brollbot/master/img/chris_intro.png)Chris Broll%[Chat with my bot!](postback:chat_with_my_bot)",
     "CHAT WITH MY BOT!": "Hey there! \nI'm Chris' personal bot \nWant to jump in and connect with him or would you like to learn more about Chris first?\n%[Ping him](postback:ping_him)\n%[Learn more](postback:learn_more)\n%[Home menu](postback:home_menu)",
     "PING HIM": "",
     "LEARN MORE": "",
