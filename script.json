@@ -1,7 +1,5 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Chris, an Art Director from Minnesota.\nWant to know more about bots or learn about Chris? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Chris](postback:learn_about_chris)",
-    "LET'S TELL HIM": "Cool, let's tweet @ chris so he knows you're talking with me and he'll jump in as soon as he can. Here's a tweet that's ready to go: %[Tweet Chris](http://bit.ly/2942yc8)\nOnce you've tweeted Chris, you should learn more about him. %[Okay, tell me more](postback:okay_tell_me_more)",
-    "OKAY, TELL ME MORE": "Chris is much more complex than me, he's human.\nI think.\nAnyway, what about Chris interests you? %[Work & Education](postback:work_education) %[World Travel](postback:world_travel) %[Background](postback:learn_about_chris)",
     "LEARN ABOUT CHRIS": "Chris is much more complex than me, he's human.\nI think.\nAnyway, what about Chris interests you? %[Work & Education](postback:work_education) %[World Travel](postback:world_travel) %[Random Facts](postback:random_facts)",
     "WORK & EDUCATION": "Hmmm, okay, pulling that up.\nOkay, Chris has spent the last 10 years learning and working in the creative industry. His roles have changed as have his employers, but creativity is always central to his focus %[Tell me more](postback:tell_me_more)",
     "TELL ME MORE": "He is an Art Director @ Weber Shandwick Minneapolis\nBefore that he worked at Mithun Agency with the entire creative team providing ideas and helped create visuals for campaign work.\nHe also worked as a professional retoucher for commercial products and a few celebrities right out of college. %[That's interesting](postback:thats_interesting)",
@@ -11,7 +9,6 @@
     "DRIVING ICELAND": "The land of fire and ice.\nChris spent a week driving across half of the country. He stayed in Reykjavik, saw incredible mountains, and even rode horses across volcanic fields. %[Sail the BVI](postback:sail_the_bvi) %[Travel Finland](postback:travel_finland) %[Home Menu](postback:home_menu)",
     "SAIL THE BVI": "Smooth sailing!\nChris and a crew sailed up, down, and around many of the islands that make up the British Virgin Islands.\nHe ran the lines, set the sails, and even captain'd the boat.\nEvery night was spent on a new island getting to know the locals. %[Driving Iceland](postback:driving_iceland) %[Travel Finland](postback:travel_finland) %[Home Menu](postback:home_menu)",
     "TRAVEL FINLAND": "Kiitos Helsinki!\nIn a 15 day trip traveling across 3 countries, Chris stopped and fell in love with Helsinki.\nThe architecture was truly one-of-a-kind.\nAnd the history of the city remarkable. %[Drive Iceland](postback:drive_iceland) %[Sail the BVI](postback:sail_the_bvi) %[Home Menu](postback:home_menu)",
-    "I WANT A BOT": "This link has everything you need to know: %[Build-a-bot](http://estherbot.us3.list-manage.com/subscribe?u=747676a510e61e338b488bc17&id=b41a573523) \nIf you've changed your mind you can always type HOME MENU at anytime to see your options. %[Home Menu](postback:home_menu)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, BrollBot is back."
 }
