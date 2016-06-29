@@ -4,6 +4,7 @@
     "LET'S TELL HIM": "Cool, let's tweet @ chris so he knows you're talking with me and he'll jump in as soon as he can. Here's a tweet that's ready to go: %[Tweet Chris](http://bit.ly/2942yc8)\nOnce you've tweeted Chris, you should learn more about him. %[Okay, tell me more](postback:okay_tell_me_more)",
     "LEARN ABOUT CHRIS": "Hi there!\nI’m the personal bot of Chris, an Art Director from Minnesota.\nWant to know more about bots or learn about Chris? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Chris](postback:learn_about_chris)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "THANKS*": "You bet mate.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, BrollBot is back."
 }
