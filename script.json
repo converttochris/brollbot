@@ -19,7 +19,7 @@
     "I WANT A BOT": "This link has everything you need to know: %[Build-a-bot](http://estherbot.us3.list-manage.com/subscribe?u=747676a510e61e338b488bc17&id=b41a573523) \nIf you've changed your mind you can always type HOME MENU at anytime to see your options. %[Home Menu](postback:home_menu)",
     "CONNECT WITH CHRIS": "Sweet! Chris loves getting intros from BrollBot. You can either tweet him to let him know you're waiting or connect directly to chat with him.\nConnecting directly will turn me OFF and notify Chris you're waiting for a response. %[Tweet him](http://bit.ly/2942yc8) %[Connect Me](postback:connect_me) %[Home Menu](postback:home_menu)",
     "CONNECT ME": "Shutting down and alerting Chris.\nType DISCONNECT to close connection with Chris and bring me back online.",
-    "DISCONNECT": "Roger that, BrollBot is back.\nHere are your options: %[Learn about Chris](postback:learn_about_chris) %[Connect with Chris](postback:connect_with_chris) %[What is this?](postback:what_are_you)","
+    "DISCONNECT": "Roger that, BrollBot is back.\nHere are your options: %[Learn about Chris](postback:learn_about_chris) %[Connect with Chris](postback:connect_with_chris) %[What is this?](postback:what_are_you)"
 }
 
 
