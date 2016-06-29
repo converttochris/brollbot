@@ -1,6 +1,7 @@
 {
     "BOT": "![chris](https://raw.githubusercontent.com/converttochris/brollbot/master/img/chris_intro.png)\nHi there!\nI’m the personal bot of Chris, an Art Director from Minnesota.\nWant to know more about bots or learn about Chris? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Chris](postback:learn_about_chris)",
     "HELLO": "Thank you so much for getting in touch. Do you want to tell Chris that you're talking to his bot? %[Let's tell him](postback:twitter) %[Wait, what are you?](postback:what_are_you)",
+    "HOME MENU": "Welcome home!\nHere are you options: %[Learn about Chris](postback:learn_about_chris) %[Connect with Chris](postback:connect_with_chris) %[What are you?](postback:what_are_you)",
     "LET'S TELL HIM": "Cool, let's tweet @ chris so he knows you're talking with me and he'll jump in as soon as he can. Here's a tweet that's ready to go: %[Tweet Chris](http://bit.ly/2942yc8)\nOnce you've tweeted Chris, you should learn more about him. %[Okay, tell me more](postback:okay_tell_me_more)",
     "OKAY, TELL ME MORE": "Chris is much more complex than me, he's human.\nI think.\nAnyway, what about Chris interests you? %[Work & Education](postback:work_education) %[World Travel](postback:world_travel) %[Background](postback:learn_about_chris)",
     "LEARN ABOUT CHRIS": "Chris is much more complex than me, he's human.\nI think.\nAnyway, what about Chris interests you? %[Work & Education](postback:work_education) %[World Travel](postback:world_travel) %[Random Facts](postback:random_facts)",
@@ -12,6 +13,9 @@
     "ICELAND": "The land of fire and ice.\nChris spent a week driving across half of the country.\nHe stayed in Reykjavik.\nSaw incredible mountains.\nAnd even rode horses across volcanic fields. %[BVI](postback:bvi) %[Finland](postback:finland) %[Home Menu](postback:home_menu)",
     "BVI": "Smooth sailing!\nChris and a crew sailed up, down, and around many of the islands that make up the British Virgin Islands.\nHe ran the lines, set the sails, and even captain'd the boat.\nEvery night was spent on a new island getting to know the locals. %[Iceland](postback:iceland) %[Finland](postback:finland) %[Home Menu](postback:home_menu)",
     "FINLAND": "Kiitos Helsinki!\nIn a 15 day trip traveling across 3 countries, Chris stopped and fell in love with Helsinki.\nThe architecture was truly one-of-a-kind.\nAnd the history of the city remarkable. %[Iceland](postback:iceland) %[BVI](postback:bvi) %[Home Menu](postback:home_menu)",
+    "I'M HERE FOR THE BOT": "",
+    "WAIT, WHAT ARE YOU": "",
+    "WHAT ARE YOU": "",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, BrollBot is back."
 }
