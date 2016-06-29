@@ -1,7 +1,7 @@
 {
     "BOT": "![chris](https://raw.githubusercontent.com/converttochris/brollbot/master/img/chris_intro.png)\nHi there!\nI’m the personal bot of Chris, an Art Director from Minnesota.\nWant to know more about bots or learn about Chris? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Chris](postback:learn_about_chris)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "HELLO": "Thank you so much for getting in touch. Do you want to tell Chris that you're talking to his bot? %[Tell her](postback:twitter)",
+    "TELL HER": "Cool, let's tweet @ chris so he knows you're talking with me and he'll jump in as soon as he can. Here's a tweet that's ready to go: %[Tweet Chris](http://bit.ly/2942yc8)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
